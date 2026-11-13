@@ -1,2 +1,2 @@
-# Mey-app-
+Mey-app
 Mey yapay zeka protipi
